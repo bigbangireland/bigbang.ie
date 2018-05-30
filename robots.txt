@@ -1,3 +1,24 @@
 User-agent: *
 Disallow: /wp-content
 Disallow: /support
+Disallow: /blog
+
+Disallow: /a-large-company-vs-a-small-company-essay
+Disallow: /tag/online-trading-voucher/
+Disallow: /tiscali-web-hosting-web
+Disallow: /custom-college-papers-xtremepapers-cie
+Disallow: /write-my-college-term-paper-warehouse-sydney
+Disallow: /upload-research-papers-online-today
+Disallow: /best-written-research-papers-xtremepapers
+Disallow: /college-essay-vocabulary-list
+Disallow: /host-file-block-all-websites-except
+Disallow: /cash-advance-alexandria-ky
+Disallow: /best-research-paper-in-economics-xtremepapers
+Disallow: /open-university-essay-writing-course-london
+Disallow: /how-to-write-my-term-paper-warehouse-okc
+Disallow: /printable-essay-writing-paper-emoji
+Disallow: /writing-services-for-college-papers-xtremepapers
+Disallow: /xmlrpc.php
+Disallow: /direct-lender-payday-loans-in-colorado
+Disallow: /cisco-hosted-web-filtering
+
